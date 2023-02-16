@@ -1,6 +1,6 @@
 # Curso-de-Machine-Learning
 
-Dia 1
+Dia 1 
 .
     El lenguaje es Python
 
@@ -13,12 +13,16 @@ Dia 1
     4- Tema introducción Luis Sastre.
 
 Dia 2
+    
+    Casos Prácticos
 
     1- Colab Space X, 2 notebook.
 
     2- SQL
 
 Dia 3
+
+    Machine Learning
 
     1- Introducción a Machine Learning con Scikit-Learn
 
