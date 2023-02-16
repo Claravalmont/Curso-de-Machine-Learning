@@ -11,6 +11,5 @@ Dia 2
 Dia 3
 1- Introducción a Machine Learning con Scikit-Learn
 2- Regresión
-3-  - Folium
-
-Prophet - Predecir el valor de Bitcoin
+3- Folium
+4- Prophet - Predecir el valor de Bitcoin, BBVA, Santander.
