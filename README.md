@@ -13,7 +13,7 @@ Dia 1
     4- Tema introducción Luis Sastre.
 
 Dia 2
-    
+ .   
     Casos Prácticos
 
     1- Colab Space X, 2 notebook.
