@@ -31,3 +31,8 @@ Dia 3
     3- Folium
 
     4- Prophet - Predecir el valor de Bitcoin, BBVA, Santander.
+Dia 4
+
+    Machine Learning
+    
+    1- 
